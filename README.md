@@ -1,3 +1,3 @@
 # hello-world
-Everybody needs a hello
-Je m'appelle Stephen, I don't actually speak French. 
+
+Je m'appelle Jeff, I don't actually speak French, my name isn't Jeff either.
